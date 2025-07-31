@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVrNjBkeGhwaGs0OHEwd2J1M2VkZmljbGNlcGkyYnp3eXBlNTgzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif)" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVrNjBkeGhwaGs0OHEwd2J1M2VkZmljbGNlcGkyYnp3eXBlNTgzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" />
 </p>
 
 # Hi There!  
