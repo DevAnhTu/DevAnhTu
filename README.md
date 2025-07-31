@@ -1,6 +1,19 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRmcWV6NmVtaDlqbmlhNm5jeWY2aXQ3Z2gxenUwN244c213eTA4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="100%" />
+</p>
+
+# Hi There!  
+I'm **Tú Dev** from the Earth 🌍
+
+🛠️ Languages & Tools  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
 </p>
 
 <!-- Typing effect -->
