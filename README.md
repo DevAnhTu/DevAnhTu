@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on **a Laravel + Vue.js web project**
 - 🌱 I’m learning **RESTful APIs, Tailwind CSS, and Docker**
 - 👯 I’m open to collaborate on **web development projects**
-- 📫 Contact me via email: **youremail@example.com**
+- 📫 Contact me via email: **tuvaph51160@gmail.com**
 - ⚡ Fun fact: _"I enjoy turning complex problems into simple, beautiful code."_
 
 ---
