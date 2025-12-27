@@ -33,8 +33,8 @@
 ## 🔥 GitHub Stats 🔥
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAnhTu&show_icons=true&theme=react&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnhTu&layout=compact&theme=react&hide_border=true" height="180"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlidWxoNHZtYXhhYmdnbG5rNm5kZHY4cGZjNWZ5bTNva3dyNGNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j0J63B0YW2U3XqHqso/giphy.gif" height="180"/>
+  
 </p>
 
 ---
