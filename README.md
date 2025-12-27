@@ -1,6 +1,6 @@
 <!-- DevAnhTu -->
 <a href="#" target="_blank">
-  <img src="svg/devanhtu-banner.svg" width="1200" alt="DevAnhTu-official" />
+
   <img src="svg/devanhtu-banner.svg" width="1200" />
 
 </a>
